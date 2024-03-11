@@ -1,0 +1,8 @@
+ami       = "ami-006dcf34c09e50022"
+instance_type   = "t2.micro"
+region1 = "us-east-1"
+ec2_name = "ec2-project"
+s3_name = "shaza-project"
+dynamodb_table_name = "project1-table"
+availability_zone_a = "us-east-1a"
+availability_zone_b = "us-east-1b"
